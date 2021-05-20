@@ -25,9 +25,9 @@ Normal
 
 `var example=true`
 
-   if(isAwesome) {
+    if(isAwesome) {
       return true
-   }
+    }
    
 ```
 if(isAwesome) {
