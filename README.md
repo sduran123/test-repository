@@ -33,7 +33,5 @@ if (isAwesome){
 
 
 ```javascript
-if (isAwesome){
-  return true
-}
+var yourAwesome=true
 ```
