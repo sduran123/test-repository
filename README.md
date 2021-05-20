@@ -35,5 +35,5 @@ if (isAwesome){
 ```javascript
 if (isAwesome){
   return true
- }
+}
 ```
