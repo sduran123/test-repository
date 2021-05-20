@@ -35,7 +35,7 @@ if (isAwesome) {
 }
 ```
 
-```javacscript
+```javascript
 if (isAwesome) {
   return true
 }
