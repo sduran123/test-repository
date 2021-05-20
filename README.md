@@ -15,7 +15,7 @@
 * Order doesn't matter
 * In this list
 
-![my logo](/img/logo.png)
+![my logo](/images/logo.png)
 
 > Coffee. The finet organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
