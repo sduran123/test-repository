@@ -30,7 +30,7 @@
 if (isAwesome){
    return true
 }
-
+```
 
 ```javascript
 var yourAwesome=true
